@@ -1,6 +1,7 @@
-17a585ba7da4a93a2c80c725e640b36b *DESCRIPTION
-c0c15cd6358775d584b3de8e61ccad0f *R/rrest.R
-6851631d480de82ef074b8049c31eee9 *R/rrlda.R
-f10f4ca28ddca19e7a0059ecb7890e96 *man/predict.rrlda.Rd
-f74f6fb99ed76ffc2720e2e6d7233cd2 *man/rrest.Rd
-d5fa0bedec3eadd0d08cfdaeb54339f2 *man/rrlda.Rd
+6e95bd90b2d08baa600b415291fe8a49 *DESCRIPTION
+047890a6249c02b8a30085b868a8e6c3 *NAMESPACE
+b21f2bdd2381a568a8c33ed4d416a856 *R/rrest.R
+a0e491ba3f7bb2ddf23c84619b5fded1 *R/rrlda.R
+5d720c6544c365c0c8097fb1015d6777 *man/predict.rrlda.Rd
+3e5168b42a30c9097c9a7a22406b9d39 *man/rrest.Rd
+6ec476bd40233c142e80f1ce89f87ab1 *man/rrlda.Rd
